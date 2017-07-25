@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96018" started-at="2017-07-25T10:29:35Z" finished-at="2017-07-25T10:31:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96018" started-at="2017-07-25T10:29:35Z" finished-at="2017-07-25T10:31:11Z">
+      <class name="com.qainfotech.Assignment_tatoc.Basic">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.qainfotech.Assignment_tatoc.Basic@48eff760]" name="initialize" is-config="true" duration-ms="3026" started-at="2017-07-25T15:59:35Z" finished-at="2017-07-25T15:59:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="gridgate()[pri:1, instance:com.qainfotech.Assignment_tatoc.Basic@48eff760]" name="gridgate" duration-ms="1749" started-at="2017-07-25T15:59:38Z" finished-at="2017-07-25T15:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridgate -->
+        <test-method status="PASS" signature="frame_dungeon()[pri:2, instance:com.qainfotech.Assignment_tatoc.Basic@48eff760]" name="frame_dungeon" duration-ms="87158" started-at="2017-07-25T15:59:40Z" finished-at="2017-07-25T16:01:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frame_dungeon -->
+        <test-method status="PASS" signature="dragaround()[pri:3, instance:com.qainfotech.Assignment_tatoc.Basic@48eff760]" name="dragaround" duration-ms="2280" started-at="2017-07-25T16:01:07Z" finished-at="2017-07-25T16:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragaround -->
+        <test-method status="PASS" signature="launchpopup()[pri:4, instance:com.qainfotech.Assignment_tatoc.Basic@48eff760]" name="launchpopup" duration-ms="1485" started-at="2017-07-25T16:01:09Z" finished-at="2017-07-25T16:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchpopup -->
+        <test-method status="PASS" signature="cookiehandling()[pri:5, instance:com.qainfotech.Assignment_tatoc.Basic@48eff760]" name="cookiehandling" duration-ms="299" started-at="2017-07-25T16:01:11Z" finished-at="2017-07-25T16:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiehandling -->
+      </class> <!-- com.qainfotech.Assignment_tatoc.Basic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
